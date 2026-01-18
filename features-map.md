@@ -84,6 +84,9 @@
 | FeatureId      | FeatureName        | FeatureType | Summary                                      | Personas         | Requirements      | SpecFolders                             | Priority | Status      |
 |----------------|--------------------|-------------|----------------------------------------------|------------------|-------------------|------------------------------------------|----------|------------|
 | FEAT-EXAMPLE01 | Example Feature    | CRUD        | مثال لميزة CRUD كاملة (إنشاء/عرض/تعديل/حذف) | Admin, User      | FR-EX-01, FR-EX-02 | 04-domain, 07-api, 08-ui                | P1       | Planned    |
+| FEAT-001       | UX/UI Baseline     | UX          | أساسيات واجهات التطبيق وتجربة المستخدم والـ layout العام | User, Admin      |                   | psec-kit-file/FEAT-001, 08-ui           | P0       | Planned    |
+| FEAT-CV-CREATION | CV Creation      | CRUD        | إنشاء/تعديل/عرض سيرة ذاتية مع أقسامها الأساسية | User             |                   | psec-kit-file/FEAT-CV-CREATION          | P0       | Planned    |
+| FEAT-USER-REGISTRATION | User Registration | Security | تسجيل مستخدم/تسجيل دخول وإدارة جلسة المستخدم والملف الشخصي | User, Admin      |                   | psec-kit-file/FEAT-USER-REGISTRATION    | P0       | Planned    |
 
 أضف الصفوف الحقيقية هنا أسفل المثال ↑.
 
